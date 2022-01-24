@@ -3,12 +3,23 @@ body {
     }
     
     h1 {
-    color: white;
+    color: rgb(8, 2, 2);
     text-align: center;
     }
     
     p {
+        border: 1px solid black;
     font-family: verdana;
     font-size: 20px;
     text-align: center;
     }
+    h2 {
+        color: rgb(49, 6, 6);
+        margin-left: 50px;
+        }
+    div{
+        
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    
